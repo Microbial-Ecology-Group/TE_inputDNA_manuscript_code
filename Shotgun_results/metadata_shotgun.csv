@@ -1,0 +1,17 @@
+SampleID,Sample,Type,Dilution,Kit,InputDNA,SampleGroup,Raw_reads,AMR_hits
+SRR4425686,SRR4425686,Shotgun,Shotgun,Shotgun,Shotgun,Avian fecal,23916121,195384
+SRR4425682,SRR4425682,Shotgun,Shotgun,Shotgun,Shotgun,Porcine fecal,27649062,162704
+SRR4425696,SRR4425696,Shotgun,Shotgun,Shotgun,Shotgun,Porcine fecal,20624405,132504
+SRR4425681,SRR4425681,Shotgun,Shotgun,Shotgun,Shotgun,Porcine fecal,21295142,131073
+SRR4425683,SRR4425683,Shotgun,Shotgun,Shotgun,Shotgun,Avian fecal,18192702,108697
+SRR4425684,SRR4425684,Shotgun,Shotgun,Shotgun,Shotgun,Avian fecal,19906366,104853
+SRR4425685,SRR4425685,Shotgun,Shotgun,Shotgun,Shotgun,Avian fecal,22447474,93388
+SRR4425695,SRR4425695,Shotgun,Shotgun,Shotgun,Shotgun,Porcine fecal,8606112,74725
+SRR4425687,SRR4425687,Shotgun,Shotgun,Shotgun,Shotgun,Bovine fecal,23669498,59740
+SRR4425690,SRR4425690,Shotgun,Shotgun,Shotgun,Shotgun,Bovine fecal,20037290,58169
+SRR4425688,SRR4425688,Shotgun,Shotgun,Shotgun,Shotgun,Bovine fecal,7293175,24185
+SRR4425689,SRR4425689,Shotgun,Shotgun,Shotgun,Shotgun,Bovine fecal,7093810,21515
+SRR4425692,SRR4425692,Shotgun,Shotgun,Shotgun,Shotgun,Human wastewater,21502479,19034
+SRR4425694,SRR4425694,Shotgun,Shotgun,Shotgun,Shotgun,Human wastewater,18730950,16815
+SRR4425656,SRR4425656,Shotgun,Shotgun,Shotgun,Shotgun,Human wastewater,18970282,16723
+SRR4425691,SRR4425691,Shotgun,Shotgun,Shotgun,Shotgun,Human wastewater,8428949,6642
